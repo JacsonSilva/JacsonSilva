@@ -4,6 +4,7 @@
 - 🌱 Cursando Redes de Computadores pela Estácio / Am ...
 - 📘 Realizando curso de especialização em Full Stack Development pela #somosTera
 - 📚 Estudando HTML, CSS. JS, Python, Java.
+- 🧑‍💼 Em busca de Estágio em Desenvolvimento de Software.
 
 <div align="center">
   <a href="https://github.com/JacsonSilva">
